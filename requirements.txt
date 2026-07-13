@@ -4,3 +4,5 @@ xgboost
 joblib
 numpy
 pandas
+matplotlib
+shap
